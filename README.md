@@ -1,1 +1,5 @@
-<!-- Projeto realizado no âmbito da disciplina Inteligência Artificial -->
+<div align="center">
+
+# VectorRace
+
+</div>
